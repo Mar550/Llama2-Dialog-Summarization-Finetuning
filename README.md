@@ -15,10 +15,10 @@ The project consists of 3 main sections:
 - A Hugging-face account with a Read/Write permission token
 
 <h3> External Libraries </h3>
-- Accelerate
-- BitsAndBytes
-- Transformers 
-- Trl
-- Evaluate
-- rouge_score
-- bert-score
+- Accelerate <br>
+- BitsAndBytes <br>
+- Transformers <br>
+- Trl <br>
+- Evaluate <br>
+- rouge_score <br> 
+- bert-score <br>
