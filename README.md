@@ -11,7 +11,7 @@ The project consists of 3 main sections:
   3. Evaluation : The last step focuses on evaluating the training results, first by comparing the outputs of the two models, then by using benchmarks such as ROUGE  and BERTScore
 
 <h3> Pre-requisites </h3>
-- At least 22 GB of GPU memory
+- At least 22 GB of GPU memory <br>
 - A Hugging-face account with a Read/Write permission token
 
 <h3> External Libraries </h3>
