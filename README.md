@@ -1,7 +1,7 @@
 <h1> Support Insights </h1>
 <h3> An LLM-based Quality Analysis tool for customer support interactions </h3>
 
-This repository contains the codes files used to finetune the Llama2 7B model for dialog summarisation in the context of customer support and evaluate its performance. The full dissertation is available in the following link: https://jumpshare.com/s/L2K4CSQHdca9vvyDz5yc .
+This repository contains the codes files used to finetune the Llama2 7B model for dialog summarisation in the context of customer support and evaluate its performance. The full dissertation is available in the following link: https://pdfupload.io/docs/73671273 .
 
 <h3> Roadmap </h3>
 The project consists of 3 main sections:
